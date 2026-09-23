@@ -14,7 +14,7 @@
 
 body {
     /* 상대 경로 또는 절대 경로로 이미지 지정 */
-    background-image: url('images/background.jpg');
+    background-image: url('8e79b27d-1ffd-4352-a1ca-5de6e542d823.jpeg');
     
     /* 화면 크기에 맞게 이미지 조절 */
     background-size: cover;
