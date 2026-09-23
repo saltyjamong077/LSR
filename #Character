@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
 <img src="./images/ChatGPT Image 2026년 9월 23일 오전 09_37_13.png" alt="설명">
-  <title>메인 캐릭터</title>
+  <title>이세린</title>
   <style>
     body {
       font-family: Jua, sans-serif;
@@ -15,8 +15,7 @@
 body {
     /* 상대 경로 또는 절대 경로로 이미지 지정 */
     background-image: url('8e79b27d-1ffd-4352-a1ca-5de6e542d823.jpeg');
-    
-    /* 화면 크기에 맞게 이미지 조절 */
+        /* 화면 크기에 맞게 이미지 조절 */
     background-size: cover;
     
     /* 이미지 반복 방지 */
@@ -48,11 +47,11 @@ body {
 </head>
 <body>
   <div class="container">
-    <h1>안녕하세요 👋</h1>
-    <p>저는 jbs371입니다.</p>
-    <p>이곳은 저를 소개하는 개인 홈페이지입니다.</p>
-    <p>관심사: 개발, 공부, 기록</p>
-    <p>이메일: example@email.com</p>
+    <h1>이름: 이세린</h1>
+    <p>나이: 약 1000년 전에 죽은 영혼</p>
+    <p>성별: 여성</p>
+    <p>성격: 바보같음(+귀여움)</p>
+    <p>특징: 섹스에 미쳐있음</p>
   </div>
 </body>
 </html>
