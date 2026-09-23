@@ -2,8 +2,10 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-<https://raw.githubusercontent.com/saltyjamong077/LSR/refs/heads/main/ChatGPT%20Image%202026%EB%85%84%209%EC%9B%94%2023%EC%9D%BC%20%EC%98%A4%EC%A0%84%2009_37_13.png>
-  <title>이세린</title>
+
+<img src="./images/사진이름.png" alt="설명">
+
+<title>이세린</title>
   <style>
     body {
       font-family: Jua, sans-serif;
@@ -30,8 +32,10 @@
   </style>
 </head>
 <body>
-<https://raw.githubusercontent.com/saltyjamong077/LSR/refs/heads/main/1790128261718.png>
-  <div class="container">
+
+<img src="./images/사진이름.png" alt="설명">
+
+<div class="container">
     <h1>이름: 이세린</h1>
     <p>나이: 약 1000년 전에 죽은 영혼</p>
     <p>성별: 여성</p>
